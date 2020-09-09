@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/tests/test01_Agregar_miembro.py=utf-8
+encoding//src/tests/test02_Limpiar_campos.py=utf-8
+encoding//src/tests/test03_Validar_nombre_con_numeros.py=utf-8
+encoding//src/tests/test04_Validar_nombre_mas_25_letras_espacios.py=utf-8
+encoding//src/tests/test05_Validar_correo_registrado_en_sistema.py=utf-8
+encoding//src/tests/test06_Validar_JSON_fila.py=utf-8
+encoding//src/tests/test07_Validar_JSON_tabla.py=utf-8
+encoding//src/tests/test08_Validar_orden_tabla.py=utf-8
+encoding//src/tests/test09_Validar_mensajes_nombre.py=utf-8
+encoding//src/tests/test10_Validar_mensajes_correo.py=utf-8
+encoding//src/tests/test11_Validar_mensajes_telefono.py=utf-8
